@@ -29,11 +29,39 @@ Github topic:https://github.com/topics/crawler
 
 推荐使用工具：
 
-Easyspider：
+### Easycrawler:
+>https://blog.csdn.net/Pluviophiles/article/details/130734349
+
+?使用场景：```新手/小白简单抓取``` ```论坛文本信息``` ```使用python```
+
+>使用方法：
+```python3 Crawler.py```
+```python3 DelKeyWord.py```
+
+
+### Easyspider：
 https://github.com/NaiboWang/EasySpider
 
-下载：
+>使用场景：```复杂场景-精确信息``` ```网页图形化抓取```
+
+>下载：
 https://www.easyspider.cn/files/v0.6.0/
 
-使用方法：
+>使用方法：
 https://github.com/NaiboWang/EasySpider/wiki
+
+### ~~Diffbot~~ 
+>https://www.diffbot.com/products/extract/testdrive/
+
+>使用场景：```只输入URL，不编码``` ```结构化信息``` ```2周免费``` ```工作邮箱```
+
+>下载：
+https://app.diffbot.com/get-started/
+
+>使用方法：
+
+
+
+
+
+
