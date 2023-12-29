@@ -1,6 +1,5 @@
 # General_Agent_Creation_toolbox
-  ***General_Agent_Creation_toolbox***收集AI开发用工具，用于简单，有效的创建网络部署用AI Agent。主要包括：
-  数据收集，开发工具和教程，管理组件，测试组件，部署组件，运维组件，宣传模板。
+  ***General_Agent_Creation_toolbox***收集AI开发用工具，用于简单，有效的创建网络部署用AI Agent。
 
    >*数据收集*：爬虫工具/语料库整理
   
