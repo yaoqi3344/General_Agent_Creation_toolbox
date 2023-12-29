@@ -32,7 +32,7 @@ Github topic:https://github.com/topics/crawler
 ### Easycrawler:
 >https://blog.csdn.net/Pluviophiles/article/details/130734349
 
-?使用场景：```新手/小白简单抓取``` ```论坛文本信息``` ```使用python```
+>使用场景：```新手/小白简单抓取``` ```论坛文本信息``` ```使用python```
 
 >使用方法：
 ```python3 Crawler.py```
